@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.container{
+	margin-top:20px;
+}
+.inline{
+	display:inline;
+	
+}
+.block{
+	display:block;
+}
