@@ -1,7 +1,9 @@
 
 /* Your CSS Code here. */
 .container{
-	margin-top:20px;
+	
+	background-color:yellow;
+	background-color:cover;
 }
 .inline{
 	display:inline;
